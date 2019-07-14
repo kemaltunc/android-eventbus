@@ -1,3 +1,3 @@
 # android-eventbus
 
-Android'de EventBus kütüphanesi kullanılarak ikinci fragmentten birinci fragmente veri gönderen basit bir uygulama
+A simple application that sends data from the second fragment to the first fragment using the EventBus library on Android
